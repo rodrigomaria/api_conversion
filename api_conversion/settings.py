@@ -25,7 +25,7 @@ SECRET_KEY = '!8ywmlc%^ucp937gw#@372rl9_01$&&(l4^hcfrk9was^dpn2p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["0.0.0.0", "rodrigomaria-api-conversion.azurewebsites.net"]
+ALLOWED_HOSTS = ["127.0.0.1", "api-conversion-rodrigomaria.herokuapp.com"]
 
 
 # Application definition
